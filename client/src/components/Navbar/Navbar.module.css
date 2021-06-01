@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Oswald';
+  src: url("../assets/fonts/Oswald-Medium.ttf");
+  font-weight: 500;
+}
+.avatarContainer {
+    padding-left: 25px;
+}
+.avatar {
+  vertical-align: middle;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px rgb(100, 100, 87) solid;
+}
+.pagesLink {
+font-family: "Oswald";
+font-weight: 500;
+}
