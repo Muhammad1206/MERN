@@ -1,0 +1,7 @@
+#Игнорировать  библиотеки и фреймворки
+*/node_modules/*
+**node_modules
+.idea
+*/build/*
+**build**
+
